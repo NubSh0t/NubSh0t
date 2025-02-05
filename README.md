@@ -1,6 +1,6 @@
 ## Hey there, I am Nubshot
 
-### I am a skibidi ohio programmer, who freaky about programming
+### I am a skibidi ohio who is freaky about programming
 
 
 ![NubSh0t's GitHub stats](https://github-readme-stats.vercel.app/api?username=NubSh0t&show_icons=true&theme=radical&hide_rank=true)
