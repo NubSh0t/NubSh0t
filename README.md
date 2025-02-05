@@ -7,5 +7,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NubSh0t&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![NubSh0t's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NubSh0t&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![NubSh0t's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NubSh0t&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
