@@ -1,6 +1,5 @@
 ## Hey there, I am Nubshot
 
-### My real name is Ammar Ahmed
 ### I am just someone who enjoys programming and math
 <br>
 
