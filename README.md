@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" width=370px height=220px src="https://github-readme-stats.vercel.app/api?username=NubSh0t&show_icons=true&theme=radical&hide_rank=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" width=370px height=225px src="https://github-readme-stats.vercel.app/api?username=NubSh0t&show_icons=true&theme=radical&hide_rank=true" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" width=420px height=230px src="https://github-readme-stats.vercel.app/api/top-langs/?username=NubSh0t&theme=radical&layout=compact" /></a> 
 
 <br />
