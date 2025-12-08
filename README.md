@@ -7,7 +7,14 @@
 - C#
 - JavaScript
 - Html/Css
-- Sql
+- Sql/Nosql
+
+#### Framework:
+- Fastapi
+- Dotnet
+- 
+- Bootstrap
+- MsSql/Couchbase + Redis
 
 ## GitHub Stats
 
