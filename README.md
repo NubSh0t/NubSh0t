@@ -12,7 +12,7 @@
 #### Framework:
 - Fastapi + ReactPy + Kivy
 - Aspnet + Blazor + Dotnet Maui
-- Express + React = React Native
+- Express + React + React Native
 - Bootstrap
 - MsSql/Couchbase + Redis
 
