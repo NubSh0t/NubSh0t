@@ -1,6 +1,6 @@
 ## About Me
 
-### Hey there, I am Nubshot.I am just someone who enjoys programming and math
+### Hey there, I am Nubshot. I am just someone who enjoys programming and math
 
 #### Favourite Languages: 
 - Python
