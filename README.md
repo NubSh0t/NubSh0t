@@ -6,15 +6,15 @@
 - Python
 - C#
 - JavaScript
-- Html/Css
-- Sql/Nosql
+- Html + Css
+- Sql + Nosql
 
 #### Framework:
 - Fastapi + ReactPy + Kivy
 - Aspnet + Blazor + Dotnet Maui
 - Express + React + React Native
 - Bootstrap
-- MsSql/Couchbase + Redis
+- MsSql + Couchbase + Redis
 
 ## GitHub Stats
 
