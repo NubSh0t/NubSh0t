@@ -6,13 +6,15 @@
 - Python
 - C#
 - JavaScript
+- Dart
 - Html + Css
 - Sql + Nosql
 
 #### Framework:
-- Fastapi + ReactPy + Kivy
-- Aspnet + Blazor + Dotnet Maui
-- Express + React + React Native
+- Fastapi + ReactPy
+- Aspnet + Blazor
+- Express + React
+- Flutter
 - Bootstrap
 - MsSql + Couchbase + Redis
 
