@@ -16,7 +16,7 @@
 - Express + React
 - Flutter
 - Bootstrap
-- MsSql + Couchbase + Redis
+- MsSql + Redis
 
 ## GitHub Stats
 
