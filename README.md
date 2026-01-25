@@ -8,7 +8,8 @@
 - JavaScript
 - Dart
 - Html + Css
-- Sql + Nosql
+- Sql
+- Bash
 
 #### Framework:
 - Fastapi + ReactPy
