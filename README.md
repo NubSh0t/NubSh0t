@@ -9,7 +9,6 @@
 - Dart
 - Html + Css
 - Sql
-- Bash
 
 #### Framework:
 - Fastapi + ReactPy
