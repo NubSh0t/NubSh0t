@@ -4,16 +4,16 @@
 
 #### Favourite Languages: 
 - Python
-- C#
 - JavaScript
+- C#
 - Dart
 - Html + Css
 - Sql
 
 #### Framework:
 - Fastapi + ReactPy
-- Aspnet + Blazor
 - Express + React
+- Aspnet + Maui Blazor
 - Flutter
 - Bootstrap
 - MsSql + Redis
