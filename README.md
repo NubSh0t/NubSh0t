@@ -7,14 +7,12 @@
 - JavaScript
 - C#
 - Dart
-- Sql
 
 #### Framework:
 - Fastapi + ReactPy
 - Express + React
 - Aspnet + Maui Blazor
 - Shelf + Flutter
-- MsSql + Redis
 
 ## GitHub Stats
 
