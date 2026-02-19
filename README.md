@@ -12,7 +12,7 @@
 - Fastapi + ReactPy
 - Express + React
 - Aspnet + Maui Blazor
-- Shelf + Flutter
+- Relic + Flutter
 
 ## GitHub Stats
 
