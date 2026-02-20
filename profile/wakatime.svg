@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="197.8575"
+            width="197.253"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="197.8575"
+            x="197.253"
             y="0"
-            width="123.27150000000002"
+            width="122.946"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="321.129"
+            x="320.19899999999996"
             y="0"
-            width="75.19050000000001"
+            width="74.958"
             height="8"
             fill="#178600"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="396.31950000000006"
+            x="395.1569999999999"
             y="0"
-            width="36.27"
+            width="37.571999999999996"
             height="8"
             fill="#00B4AB"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="432.58950000000004"
+            x="432.7289999999999"
             y="0"
-            width="32.364000000000004"
+            width="32.271"
             height="8"
             fill="#f1e05a"
           />
@@ -185,7 +185,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 67 hrs 28 mins
+        Python - 67 hrs 30 mins
       </text>
     </g>
   
@@ -199,7 +199,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dart - 19 hrs 51 mins
+        Dart - 20 hrs 37 mins
       </text>
     </g>
   
