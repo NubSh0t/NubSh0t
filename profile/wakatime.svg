@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="190"
-        viewBox="0 0 495 190"
+        height="165"
+        viewBox="0 0 495 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="181.9545"
+            width="185.535"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="181.9545"
+            x="185.535"
             y="0"
-            width="112.7625"
+            width="112.80900000000001"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="294.717"
+            x="298.344"
             y="0"
-            width="68.82"
+            width="68.7735"
             height="8"
             fill="#178600"
           />
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="363.537"
+            x="367.1175"
             y="0"
             width="62.495999999999995"
             height="8"
@@ -167,45 +167,25 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.03299999999996"
+            x="429.6135"
             y="0"
             width="35.2935"
             height="8"
             fill="#00B4AB"
           />
         
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="461.32649999999995"
-            y="0"
-            width="2.4645"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="463.79099999999994"
-            y="0"
-            width="1.1159999999999999"
-            height="8"
-            fill="#5686a5"
-          />
-        
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 109 hrs 20 mins
+        Other - 111 hrs 30 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 67 hrs 46 mins
+        Python - 67 hrs 47 mins
       </text>
     </g>
   
@@ -219,7 +199,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 37 hrs 33 mins
+        JavaScript - 37 hrs 34 mins
       </text>
     </g>
   
@@ -227,20 +207,6 @@
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Dart - 21 hrs 13 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        WebGPU Shading Language - 1 hr 29 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 100)">
-      <circle cx="5" cy="6" r="5" fill="#5686a5" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GLSL - 40 mins
       </text>
     </g>
   
