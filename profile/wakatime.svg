@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="186.5115"
+            width="186"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="186.5115"
+            x="186"
             y="0"
-            width="112.43700000000001"
+            width="112.2975"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="298.9485"
+            x="298.2975"
             y="0"
-            width="67.1925"
+            width="66.96"
             height="8"
             fill="#178600"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="366.141"
+            x="365.2575"
             y="0"
-            width="64.35600000000001"
+            width="65.286"
             height="8"
             fill="#f1e05a"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="430.497"
+            x="430.5435"
             y="0"
-            width="34.4565"
+            width="34.3635"
             height="8"
             fill="#00B4AB"
           />
@@ -178,14 +178,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 114 hrs 47 mins
+        Other - 114 hrs 49 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 69 hrs 12 mins
+        Python - 69 hrs 19 mins
       </text>
     </g>
   
@@ -199,7 +199,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 39 hrs 36 mins
+        JavaScript - 40 hrs 18 mins
       </text>
     </g>
   
