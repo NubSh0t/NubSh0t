@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="191.4405"
+            width="193.02149999999997"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="191.4405"
+            x="193.02149999999997"
             y="0"
-            width="116.436"
+            width="118.48200000000001"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="307.87649999999996"
+            x="311.5035"
             y="0"
-            width="63.0075"
+            width="61.566"
             height="8"
             fill="#178600"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="370.88399999999996"
+            x="373.06949999999995"
             y="0"
-            width="61.89150000000001"
+            width="60.45"
             height="8"
             fill="#f1e05a"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="432.77549999999997"
+            x="433.51949999999994"
             y="0"
-            width="32.2245"
+            width="31.480499999999996"
             height="8"
             fill="#00B4AB"
           />
@@ -178,14 +178,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 125 hrs 39 mins
+        Other - 129 hrs 40 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 76 hrs 25 mins
+        Python - 79 hrs 35 mins
       </text>
     </g>
   
