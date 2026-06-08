@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="190.7895"
+            width="187.90649999999997"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="190.7895"
+            x="187.90649999999997"
             y="0"
-            width="118.20300000000002"
+            width="116.4825"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="308.9925"
+            x="304.38899999999995"
             y="0"
-            width="64.35600000000001"
+            width="70.30799999999999"
             height="8"
             fill="#f1e05a"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="373.3485"
+            x="374.69699999999995"
             y="0"
-            width="60.635999999999996"
+            width="59.706"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="433.9845"
+            x="434.40299999999996"
             y="0"
-            width="31.015500000000003"
+            width="30.550500000000003"
             height="8"
             fill="#00B4AB"
           />
@@ -185,14 +185,14 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 80 hrs 35 mins
+        Python - 80 hrs 38 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 43 hrs 52 mins
+        JavaScript - 48 hrs 39 mins
       </text>
     </g>
   
