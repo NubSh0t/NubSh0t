@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="185.58149999999998"
+            width="182.373"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="185.58149999999998"
+            x="182.373"
             y="0"
-            width="115.04099999999998"
+            width="113.0415"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="300.62249999999995"
+            x="295.4145"
             y="0"
-            width="75.19050000000001"
+            width="81.933"
             height="8"
             fill="#f1e05a"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="375.813"
+            x="377.34749999999997"
             y="0"
-            width="59.0085"
+            width="57.9855"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.8215"
+            x="435.33299999999997"
             y="0"
-            width="30.1785"
+            width="29.620500000000003"
             height="8"
             fill="#00B4AB"
           />
@@ -178,7 +178,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 130 hrs 4 mins
+        Other - 130 hrs 5 mins
       </text>
     </g>
   
@@ -192,7 +192,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 52 hrs 41 mins
+        JavaScript - 58 hrs 25 mins
       </text>
     </g>
   
