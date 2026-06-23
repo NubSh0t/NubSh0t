@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="171.95699999999997"
+            width="169.1205"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="171.95699999999997"
+            x="169.1205"
             y="0"
-            width="120.9"
+            width="127.689"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="292.85699999999997"
+            x="296.80949999999996"
             y="0"
-            width="89.7915"
+            width="87.7455"
             height="8"
             fill="#f1e05a"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="382.64849999999996"
+            x="384.55499999999995"
             y="0"
-            width="54.4515"
+            width="53.196"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="437.09999999999997"
+            x="437.751"
             y="0"
-            width="27.8535"
+            width="27.2025"
             height="8"
             fill="#00B4AB"
           />
@@ -178,14 +178,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 130 hrs 30 mins
+        Other - 131 hrs 25 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 91 hrs 45 mins
+        Python - 99 hrs 12 mins
       </text>
     </g>
   
