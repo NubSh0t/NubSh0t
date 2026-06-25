@@ -2,17 +2,15 @@
 
 ### Hey there, I am Nubshot. I am just someone who enjoys programming and math
 
-#### Favourite Languages: 
-- Python
-- JavaScript
-- C#
-- Dart
-
-#### Framework:
-- Fastapi + ReactPy
-- Express + React
-- Aspnet + Maui Blazor
-- Relic + Flutter
+## Languages & Stacks
+ 
+| Language   | Role            | Stack                  |
+|------------|-----------------|-------------------------|
+| Python     | General-Purpose | Ecosystem-Driven        |
+| JavaScript | Web Development | Express + React         |
+| C#         | Cross-Platform  | Aspnet + Maui Blazor    |
+| Dart       | Cross-Platform  | Relic + Flutter         |
+| Go         | Performance     | Standard Library        |
 
 ## GitHub Stats
 
