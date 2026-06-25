@@ -4,13 +4,13 @@
 
 ## Languages & Stacks
  
-| Language   | Role            | Stack                  |
-|------------|-----------------|-------------------------|
-| Python     | General-Purpose | Ecosystem-Driven        |
-| JavaScript | Web Development | Express + React         |
-| C#         | Cross-Platform  | Aspnet + Maui Blazor    |
-| Dart       | Cross-Platform  | Relic + Flutter         |
-| Go         | Performance     | Standard Library        |
+| Language   | Stack                   |
+|------------|-------------------------|
+| Python     | Depends                 |
+| JavaScript | Express + React         |
+| C#         | Aspnet + Maui Blazor    |
+| Dart       | Relic + Flutter         |
+| Go         | Standard Library        |
 
 ## GitHub Stats
 
