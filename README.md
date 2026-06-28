@@ -6,11 +6,11 @@
  
 | Language   | Stack                   |
 |------------|-------------------------|
-| Python     | Depends                 |
+| Python     | General Purpose         |
 | JavaScript | Express + React         |
 | C#         | Aspnet + Maui Blazor    |
 | Dart       | Relic + Flutter         |
-| Go         | Standard Library        |
+| Go         | High Performance Niche  |
 
 ## GitHub Stats
 
