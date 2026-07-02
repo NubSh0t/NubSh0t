@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="160.146"
+            width="157.5885"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="160.146"
+            x="157.5885"
             y="0"
-            width="143.406"
+            width="149.079"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="303.552"
+            x="306.6675"
             y="0"
-            width="85.51350000000001"
+            width="83.8395"
             height="8"
             fill="#f1e05a"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="389.06550000000004"
+            x="390.507"
             y="0"
-            width="50.26650000000001"
+            width="49.243500000000004"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.33200000000005"
+            x="439.7505"
             y="0"
-            width="25.667999999999996"
+            width="25.203000000000003"
             height="8"
             fill="#00B4AB"
           />
@@ -178,14 +178,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 131 hrs 45 mins
+        Other - 132 hrs 15 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 117 hrs 59 mins
+        Python - 125 hrs 6 mins
       </text>
     </g>
   
