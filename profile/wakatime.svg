@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="156.65849999999998"
+            width="156.19350000000003"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="156.65849999999998"
+            x="156.19350000000003"
             y="0"
-            width="152.42700000000002"
+            width="153.357"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="309.0855"
+            x="309.55050000000006"
             y="0"
-            width="83.142"
+            width="82.9095"
             height="8"
             fill="#f1e05a"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="392.2275"
+            x="392.46000000000004"
             y="0"
-            width="48.8715"
+            width="48.7785"
             height="8"
             fill="#7355dd"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="441.09900000000005"
+            x="441.23850000000004"
             y="0"
-            width="23.854499999999998"
+            width="23.7615"
             height="8"
             fill="#00B4AB"
           />
@@ -185,7 +185,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 135 hrs 7 mins
+        Other - 136 hrs 19 mins
       </text>
     </g>
   
@@ -199,7 +199,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 43 hrs 18 mins
+        C# - 43 hrs 20 mins
       </text>
     </g>
   
