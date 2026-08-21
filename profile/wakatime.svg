@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="155.35649999999998"
+            width="155.775"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="155.35649999999998"
+            x="155.775"
             y="0"
-            width="154.7055"
+            width="153.8685"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="310.062"
+            x="309.6435"
             y="0"
-            width="82.16550000000001"
+            width="82.956"
             height="8"
             fill="#f1e05a"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="392.2275"
+            x="392.59950000000003"
             y="0"
-            width="49.104000000000006"
+            width="48.825"
             height="8"
             fill="#7355dd"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="441.3315"
+            x="441.4245"
             y="0"
-            width="23.528999999999996"
+            width="23.436"
             height="8"
             fill="#00B4AB"
           />
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 139 hrs 25 mins
+        Other - 140 hrs 34 mins
       </text>
     </g>
   
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 73 hrs 46 mins
+        JavaScript - 74 hrs 50 mins
       </text>
     </g>
   
