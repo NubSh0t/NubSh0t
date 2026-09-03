@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="155.40300000000002"
+            width="155.54250000000002"
             height="8"
             fill="#858585"
           />
@@ -137,7 +137,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="155.40300000000002"
+            x="155.54250000000002"
             y="0"
             width="153.45"
             height="8"
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="308.853"
+            x="308.9925"
             y="0"
             width="83.9325"
             height="8"
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="392.7855"
+            x="392.925"
             y="0"
             width="48.685500000000005"
             height="8"
@@ -167,28 +167,18 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="441.471"
+            x="441.6105"
             y="0"
             width="23.342999999999996"
             height="8"
             fill="#00B4AB"
           />
         
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="464.814"
-            y="0"
-            width="0.09300000000000001"
-            height="8"
-            fill="#2A6277"
-          />
-        
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 140 hrs 38 mins
+        Other - 140 hrs 44 mins
       </text>
     </g>
   
@@ -217,13 +207,6 @@
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Dart - 21 hrs 8 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#2A6277" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java Properties - 4 mins
       </text>
     </g>
   
