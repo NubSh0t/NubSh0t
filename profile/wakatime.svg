@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="155.1705"
+            width="155.124"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="155.1705"
+            x="155.124"
             y="0"
-            width="154.659"
+            width="154.6125"
             height="8"
             fill="#858585"
           />
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="309.8295"
+            x="309.7365"
             y="0"
             width="83.4675"
             height="8"
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="393.297"
+            x="393.20399999999995"
             y="0"
             width="48.406499999999994"
             height="8"
@@ -167,11 +167,21 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="441.7035"
+            x="441.61049999999994"
             y="0"
-            width="23.25"
+            width="23.2035"
             height="8"
             fill="#00B4AB"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="464.81399999999996"
+            y="0"
+            width="0.13949999999999999"
+            height="8"
+            fill="#198CE7"
           />
         
       
@@ -207,6 +217,13 @@
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Dart - 21 hrs 8 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 75)">
+      <circle cx="5" cy="6" r="5" fill="#198CE7" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        R - 6 mins
       </text>
     </g>
   
