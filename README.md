@@ -10,7 +10,7 @@
 | JavaScript | Express + React    |
 | C#         | Aspnet + .Net Maui |
 | Dart       | Relic + Flutter    |
-| Go         | High Performance   |
+| Swift      | High Performance   |
 
 ## GitHub Stats
 
