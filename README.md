@@ -4,13 +4,13 @@
 
 ## Languages & Stacks
  
-| Language   | Stack              |
-|------------|--------------------|
-| Python     | General Purpose    |
-| JavaScript | Express + React    |
-| C#         | Aspnet + .Net Maui |
-| Dart       | Relic + Flutter    |
-| Swift      | High Performance   |
+| Language   | Stack            |
+|------------|------------------|
+| Python     | General Purpose  |
+| JavaScript | Express + React  |
+| C#         | Aspnet + Maui    |
+| Dart       | Relic + Flutter  |
+| Swift      | High Performance |
 
 ## GitHub Stats
 
