@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="159.6345"
+            width="159.2625"
             height="8"
             fill="#858585"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="159.6345"
+            x="159.2625"
             y="0"
-            width="148.8"
+            width="149.54399999999998"
             height="8"
             fill="#3572A5"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="308.4345"
+            x="308.80649999999997"
             y="0"
-            width="82.58400000000002"
+            width="82.398"
             height="8"
             fill="#f1e05a"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="391.0185"
+            x="391.20449999999994"
             y="0"
-            width="47.708999999999996"
+            width="47.61600000000001"
             height="8"
             fill="#7355dd"
           />
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.7275"
+            x="438.8204999999999"
             y="0"
-            width="21.715500000000002"
+            width="21.669"
             height="8"
             fill="#00B4AB"
           />
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="460.44300000000004"
+            x="460.4894999999999"
             y="0"
             width="4.4639999999999995"
             height="8"
@@ -204,7 +204,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 147 hrs 35 mins
+        Python - 148 hrs 40 mins
       </text>
     </g>
   
